@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 Home&Health
+#EXTINF:-1 tvg-name="Home&Health"
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/adtxiz8zv.m3u8?s=tEFQX-TAbmljGhpemV4Wzw&e=1617434729
-#EXTINF:-1 Discovery
+#EXTINF:-1 tvg-name="Discovery"
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/8ha8ro.m3u8?s=v28TBQ3WLvF9TUfm1TDCtA&e=1617434731
-#EXTINF:-1 TLC
+#EXTINF:-1 tvg-name="TLC"
 https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/yfbm3.m3u8?s=ySlxKMVvfqYY18LMiqm0IA&e=1617434733
