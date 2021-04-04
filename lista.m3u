@@ -1,7 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Home&Health"
+#EXTINF:-1, Home&Health
 https://dbghae58x7vt67da.ezcdn483.net:8443/hls/adtxiz8zv.m3u8?s=bhZh45aE2rMhXlTwVEwelg&e=1617447667
-#EXTINF:-1 tvg-name="Discovery"
+#EXTINF:-1, Discovery
 https://dbghae58x7vt67da.ezcdn483.net:8443/hls/8ha8ro.m3u8?s=R8keItU92r8Zic6lgQO_MQ&e=1617447623
-#EXTINF:-1 tvg-name="TLC chanel"
+#EXTINF:-1, TLC
 https://dbghae58x7vt67da.ezcdn483.net:8443/hls/yfbm3.m3u8?s=aJlcY71Kx9boDnm-LiSWbw&e=1617447711
+#EXTINF:-1, STAR
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/0e733j.m3u8?s=xMLk9Np0RzN6p93lIvzYWw&e=1617592171
+#EXTINF:-1, STAR LIFE
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/aa03um3.m3u8?s=On6Edsfnl53gLDz0Q03MKA&e=1617592174
+#EXTINF:-1, STAR ACTION
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/4612rwe.m3u8?s=66FROoEdUlYHwAGQfqr-1w&e=1617592256
+#EXTINF:-1, STAR FUN
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/goks9npik9.m3u8?s=zb0C9T-3pQEhO-JgiIil9g&e=1617592259
+#EXTINF:-1, STAR COMEDY
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/pnc0det5nknvqo.m3u8?s=_N0E6WrupnnWo_750KB6ag&e=1617592265
+#EXTINF:-1, STAR HITS
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/4dtc368405sw4mo.m3u8?s=AJkvI-LKd_CdG79zp6jGWw&e=1617592350
+#EXTINF:-1, HBO
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=G51rfTREg1BdAw-pPH33eA&e=1617592384
+#EXTINF:-1, HBO2
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/x5r58d0omlmqph.m3u8?s=0VWF72wxFF-QWSmuHcrZ_w&e=1617592388
+#EXTINF:-1, HBO+
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/3dgzjbpy.m3u8?s=Yc4aZ88Hjk0_ef_iEL-elg&e=1617592392
+#EXTINF:-1, HBO FAMILY
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/mfobze65eqg.m3u8?s=5F4lGWgu32HN040a-X8-BQ&e=1617592395
+#EXTINF:-1, CINEMAX
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=Vu48N7j4moxQiYJim4XDbw&e=1617592564
+#EXTINF:-1, CINECANAL
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/ymv0a1aobkxuf.m3u8?s=pcrPupsfgkCwckI6YZW_fA&e=1617592568
+#EXTINF:-1, TNT
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/glaldsq.m3u8?s=8aoltCaUKTGEI0j_tWTxlw&e=1617592571
+#EXTINF:-1, AMC
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=9-PbKvjD4Xau_PYuAEeNUw&e=1617592646
+#EXTINF:-1, SPACE
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/me4gtt8v3fmket.m3u8?s=3swUJpCIEGaZxz0ElYg_sw&e=1617592650
+#EXTINF:-1, UNIVERSAL
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/d77wqro8917ua5z.m3u8?s=ij_eM4ocpS2VXu4rdJbWtg&e=1617592653
+#EXTINF:-1, WARNER
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/j5uwhfb7w5c.m3u8?s=ia4CpRYGf9feqPXDSuZzbA&e=1617592656
+#EXTINF:-1, PARAMOUNT
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/vwchy5d.m3u8?s=1Q19vui4GTVhF6YJ06sTsQ&e=1617592753
+#EXTINF:-1, SYFY
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/u7rbhb.m3u8?s=SerzXX19GXmOZ8w-hSwaJw&e=1617592758
+#EXTINF:-1, DISTRITO COMEDIA
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/3cmcveklru0.m3u8?s=DWw1ejoqOx3LZL_HXiEVpg&e=1617592799
+#EXTINF:-1, H&H
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/adtxiz8zv.m3u8?s=KK3bwGU6FJJu8-VdVgnXnw&e=1617592858
+#EXTINF:-1, DISCOVERY
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/8ha8ro.m3u8?s=W0RqDdt79ZdnW6_gPdvVng&e=1617592861
+#EXTINF:-1, TLC
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/yfbm3.m3u8?s=Xuy0ir3i88V_N1_tS_VAVQ&e=1617592863
+#EXTINF:-1, GOLDEN EDGE
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/aef8t7z.m3u8?s=65UwbKN6AUj9YMlYcw36RA&e=1617592954
