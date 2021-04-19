@@ -1,41 +1,33 @@
 #EXTM3U
-#EXTINF:-1, H&H
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/adtxiz8zv.m3u8?s=B4LrvzlBbgraiUZZ9GQrcg&e=1618559857
-#EXTINF:-1, DISCOVERY
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/8ha8ro.m3u8?s=IiU7UPsmEUuOWvqMH0Zpkw&e=1618559410
-#EXTINF:-1, TLC
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/yfbm3.m3u8?s=Sv628o2BCQENju9qM-edOg&e=1618559411
-#EXTINF:-1, A&E
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/1md5d55ngm.m3u8?s=zW2MfZwGxgrWxLSX8_RsbA&e=1618378541
-#EXTINF:-1, STAR
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/0e733j.m3u8?s=fx5W20jnGBwUCavhjZ-5QA&e=1618559486
-#EXTINF:-1, STAR LIFE
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/aa03um3.m3u8?s=bHesVv4bbAnqLCLQ7ot7xQ&e=1618559725
-#EXTINF:-1, STAR ACTION
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/4612rwe.m3u8?s=9Qp-Ui2d3y0gHkdrmrFw7A&e=1618559641
-#EXTINF:-1, STAR FUN
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/goks9npik9.m3u8?s=ICLSk4aE831fFgPHOazwJw&e=1618468017
-#EXTINF:-1, STAR CINEMA
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/5s69x53079q85.m3u8?s=4grJvZ1RT037AdDRKyLT3w&e=1618559492
-#EXTINF:-1, STAR COMEDY
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/pnc0det5nknvqo.m3u8?s=UgG0KvqXw-JQ2hMEMTqadg&e=1618559497
+#EXTINF:-1, HBO
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=_I2UBxuLR-xJV0-bvu5OSQ&e=1618897210
+#EXTINF:-1, HBO2
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/x5r58d0omlmqph.m3u8?s=H6oKIjK0mOp-HwEOe82Uow&e=1618896691
+#EXTINF:-1, HBO FAMILY
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/mfobze65eqg.m3u8?s=e3iBQ37WVzeWJNLvsK5CNw&e=1618896765
+#EXTINF:-1, HBO+
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/3dgzjbpy.m3u8?s=Dvzr4pujisb1Je5L6-MFRQ&e=1618896763
 #EXTINF:-1, STAR HITS
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/4dtc368405sw4mo.m3u8?s=wmMJdns2owhEnkFA63IMDg&e=1618559722
-#EXTINF:-1, CINEMAX
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=jRuHcPPgWNFtJ0cVfc2bEg&e=1618379182
-#EXTINF:-1, TNT
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/glaldsq.m3u8?s=1CMkwIZaRJ8OphKXzi0QRA&e=1618559829
-#EXTINF:-1, AMC
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=T9wqnVsfLZWbloNYFzfIog&e=1618379246
-#EXTINF:-1, CINECANAL
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/ymv0a1aobkxuf.m3u8?s=WjN9JWdDnEh7CRd1CFDQSw&e=1618379184
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/4dtc368405sw4mo.m3u8?s=0ERNoEcJZizvcmc4sd6sIA&e=1618896826
+#EXTINF:-1, STAR COMEDY
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/pnc0det5nknvqo.m3u8?s=vHNcNDEzNx4sP5OvYnTfpg&e=1618896826
+#EXTINF:-1, STAR FUN
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/goks9npik9.m3u8?s=tW-rmxx8MDDTa5xvaIuRUA&e=1618896883
+#EXTINF:-1, STAR ACTION
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/4612rwe.m3u8?s=nyXZ1dXW_MIFSJflJGHcmQ&e=1618896911
+#EXTINF:-1, GOLDEN EDGE
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/aef8t7z.m3u8?s=BovU3l0kciwhb3LzvdhHag&e=1618896995
+#EXTINF:-1, GOLDEN
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/lnxn10nmtnl5.m3u8?s=SABofljwZko89n8Dl2TBgQ&e=1618896976
 #EXTINF:-1, SPACE
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/me4gtt8v3fmket.m3u8?s=ttaWKo4CQRyx6Plvm7LeSw&e=1618379449
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/me4gtt8v3fmket.m3u8?s=Qoza-ob_15AGi9TSjnJsRg&e=1618896980
 #EXTINF:-1, UNIVERSAL
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/d77wqro8917ua5z.m3u8?s=pmwDQMlAjT7bJ7e6ufRirQ&e=1618559804
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/d77wqro8917ua5z.m3u8?s=3Y6IIYYw7R2sYVuZ03ABvw&e=1618897079
 #EXTINF:-1, WARNER
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/j5uwhfb7w5c.m3u8?s=7NTZnFa6u92QCHheLSKxXA&e=1618559776
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/j5uwhfb7w5c.m3u8?s=_nu_EAN_F9r-5K2uu6SuJg&e=1618897082
+#EXTINF:-1, COMEDY CENTRAL
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/4qox4.m3u8?s=An5-tNrGZOSZdSMKluARrg&e=1618897132
 #EXTINF:-1, FXM
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/jpizlg1osqocv.m3u8?s=LvhdOzYcNxpIQC1Cmdjnyw&e=1618379252
-#EXTINF:-1, SYFY
-https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/u7rbhb.m3u8?s=TVqW1RU3t6Z8Z3NikR3aBw&e=1618379257
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/jpizlg1osqocv.m3u8?s=i30eFWI80bCL5scbqjI5Lw&e=1618897128
+#EXTINF:-1, MTV
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/1ojmxycsqiiy8.m3u8?s=JauYn7ppsT44uFrlXD37iw&e=1618897214
